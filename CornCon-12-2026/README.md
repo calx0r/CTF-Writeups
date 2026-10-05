@@ -4,20 +4,12 @@
 **Competition:** CyberProAI Capture the Flag  
 **Date:** October 3, 2026  
 **Team:** Yurei Mori  
-**Placement:** 2nd Place  
+**Placement:** [2nd Place](./2ndPlace_Certificate.pdf)
 
 ## Overview
 
-Competed in the CyberProAI Capture the Flag at CornCon 12 in Davenport, Iowa, alongside my teammate Drew Summers.
+Competed in the CyberProAI Capture the Flag at CornCon 12 in Davenport, Iowa, as part of Team Yurei Mori.
 
-The four-hour CTF featured hands-on challenges across simulated environments that required enumeration, exploitation, privilege escalation, credential discovery, and general problem-solving.
+The four-hour CTF featured hands-on challenges involving enumeration, exploitation, privilege escalation, credential discovery, and navigating simulated enterprise environments.
 
-We finished the competition in **2nd place overall**.
-
-## Certificate
-
-[View 2nd Place Certificate](./2ndPlace_Certificate.pdf)
-
----
-
-*No challenge writeups are included, as notes were not documented during the competition.*
+We finished **2nd place overall**.
